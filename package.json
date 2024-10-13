@@ -1,0 +1,19 @@
+{
+  "name": "set",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+ 
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "jest": {
+      "moduleFileExtensions": ["js", "jsx", "ts", "tsx", "json", "node"]
+  }
+}
